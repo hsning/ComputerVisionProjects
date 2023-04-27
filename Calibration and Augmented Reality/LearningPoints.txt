@@ -1,0 +1,3 @@
+1. Difference between  findChessboardCornersLinks and cornerSubPix
+2. 3D points, specifically why z is always 0 and i kind of understand why x is -row, but need to further understand
+3. Reprojection error quite big
